@@ -1,0 +1,23 @@
+{
+  "port": 2019,
+  "projects": [
+    {
+      "key": "bcglobal_php",
+      "path": "/Users/yuenshui/Documents/website/taloru/bcglobal_php",
+      "name": "bcglobal_php"
+    },
+    {
+      "key": "bcglobal_php",
+      "path": "/Users/yuenshui/Documents/website/taloru/bcglobal_webpage",
+      "name": "bcglobal_webpage"
+    },
+    {
+      "key": "bcglobal_api",
+      "path": "/Users/yuenshui/Documents/website/taloru/bcglobal_api",
+      "name": "bcglobal_api"
+    }
+  ],
+  "allowIP": [
+    "127.0.0.1"
+  ]
+}
